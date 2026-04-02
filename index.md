@@ -5,7 +5,7 @@ Hello! I am **Josh Victoria**. I'm from Arizona. I play guitar, play basketball,
 # Some examples of using quotes in Github Pages
 >Josh is a pretty cool guy- my homeboy
 
-You can commit a file like this `git commit <filename>`
+You can commit a file like this `git commit filename`
 
 # Links
 This is a link to the [Mona Lisa MV](https://youtu.be/MokxwHbscQ8?si=nh3-jXVAUYzEaI8d)
