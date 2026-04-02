@@ -31,8 +31,8 @@ I am linking the README.md to [this](README.md)
 5. James Monroe
 
 ## This is a task list of all my classes this quarter
-- [] CSE 110
-- [] CSE 101
-- [] COGS 108
-- [] VIS 21A
+- [ ] CSE 110
+- [ ] CSE 101
+- [ ] COGS 108
+- [ ] VIS 21A
  
