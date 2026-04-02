@@ -1,4 +1,4 @@
-[Picture of a dog!](https://www.freepik.com/free-photos-vectors/dog)
+![Picture of me!](Profile Pic copy.jpg)
 # Who am I?
 Hello! I am **Josh Victoria**. I'm from Arizona. I play guitar, play basketball, and enjoy rockclimbing. As a computer scientist, I am interested in the cybersecurity and machine learning field.
 
